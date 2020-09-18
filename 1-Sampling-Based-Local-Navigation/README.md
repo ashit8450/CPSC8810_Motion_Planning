@@ -29,3 +29,5 @@
 ### Instruction
 The following command needs to be executed to run the program,
 `python agent.py`
+
+To change number of agents, change the csv file in `simulator.py`
