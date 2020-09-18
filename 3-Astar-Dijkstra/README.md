@@ -21,6 +21,8 @@ cost = [1,1,1], Giving equal weightage to right, front and left actions respecti
 
 ['-', '-', '-', 'F', '-', '-']
 
+----
+
 Expanded Nodes
 
 (4,3,0)
