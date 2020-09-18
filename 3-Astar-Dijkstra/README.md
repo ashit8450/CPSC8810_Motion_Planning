@@ -4,6 +4,7 @@
 ### 1. astar.py
 The following command needs to be executed to run the program,
 `python astar.py`
+
 Code for A* Algorithm. 
 RESULTS:
 
@@ -66,6 +67,7 @@ Expanded Nodes
 
 ### 2. dijkstra.py:
 Code using the Dijkstra's Algorithm. The difference here is that the heuristic array will be filled with zeroes the code was run. Due to this change, dijkstra expands more nodes than A* to reach the goal (2,0,1).
+
 The following command needs to be executed to run the program,
 `python djikstra.py`
  
