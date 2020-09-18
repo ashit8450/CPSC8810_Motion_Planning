@@ -9,18 +9,30 @@ Code for A* Algorithm.
 RESULTS:
 
 cost = [1,1,1], Giving equal weightage to right, front and left actions respectively.
+
 ['-', '-', '-', '-', '-', '-']
+
 ['-', '-', '-', '-', '-', '-']
+
 ['*', 'F', 'F', 'L', '-', '-']
-['-', '-', '-', 'F', '-', '-']
+
 ['-', '-', '-', 'F', '-', '-']
 
+['-', '-', '-', 'F', '-', '-']
+
+
 Expanded Nodes
+
 (4,3,0)
+
 (3,3,0)
+
 (2,3,0)
+
 (2,2,1)
+
 (2,1,1)
+
 (2,0,1)
 
 cost = [1, 1, 10], Penalizing left(then forward) action
