@@ -12,6 +12,6 @@ The new node is added to the tree after checking for collision. If the new node 
 
 ### 3)Instruction
 The following command needs to be executed to run the program,
-`python prmplanner.py`
+`python CPSC8810_Final_Project_Code_RRT_Dubins.py`
 
  
