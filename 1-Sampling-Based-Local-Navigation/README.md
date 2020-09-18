@@ -1,15 +1,13 @@
-CPSC 8810 - Motion Planning
-Assignment 1: Sampling-Based Local Navigation
-Submitted by: Ashit Mohanty, Mohammad Anas Imam Khan
-Date of submission: 01-26-2020 
+# Assignment 1: Sampling-Based Local Navigation
+## Submitted by: Ashit Mohanty, Mohammad Anas Imam Khan 
 
-Programming variables:
+### Programming variables:
 
-Global objects:
+###### Global objects:
 1) np : object of numpy class
 2) mat_plot : object of the matplotlib.pyplot class
 
-Local variables for computeNewVelocity function
+###### Local variables for computeNewVelocity function
 1) near_goal : variable to compute distance between agent position and goal position
 2) alpha : constant used in cost function weighing relative velocity between candidate and goal velocity
 3) beta : constant used in cost function weighing relative velocity between candidate and agent's current velocity
