@@ -33,3 +33,7 @@ samp_vels_x: x-coordinate for sampled candidate velocity
 samp_vels_y: y-coordinate for sampled candidate velocity 
 
 3) The relative velocity calculated is then modified to account for adversarial uncertainty velocities
+
+### 3)Instruction
+The following command needs to be executed to run the program,
+`python agent.py`
