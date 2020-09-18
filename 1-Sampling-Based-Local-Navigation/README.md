@@ -25,3 +25,7 @@
 15) fitting function : Evaluating the fitness of each of the N candidate velocities
 16) ttc : Calculates the time to collision
 17) min_cost_vel : The candidate velocity that has the minimum cost
+
+### Instruction
+The following command needs to be executed to run the program,
+`python agent.py`
