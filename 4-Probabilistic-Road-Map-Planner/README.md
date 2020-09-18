@@ -10,6 +10,6 @@ For query phase, the A* search algorithm is used to compute the path from the st
 
 ### 3)Execution of file
 To run the program type,
-`python prmplanner.py'
+`python prmplanner.py`
 
  
