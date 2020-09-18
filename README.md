@@ -24,5 +24,5 @@ This repository consists the assignments and project done in the subject course 
 ![](https://github.com/ashit8450/CPSC8810_Motion_Planning/blob/master/4-Probabilistic-Road-Map-Planner/p4-prm.gif)
 
 ## [RRT Planner with Dubins car model](https://github.com/ashit8450/CPSC8810_Motion_Planning/tree/master/5-Final%20project_RRT%20implementation%20using%20Dubins%20car)
-![](https://github.com/ashit8450/CPSC8810_Motion_Planning/blob/master/5-Final%20project_RRT%20implementation%20using%20Dubins%20car/Video/PRM_demo_gif.gif)
+![](https://github.com/ashit8450/CPSC8810_Motion_Planning/blob/master/5-Final%20project_RRT%20implementation%20using%20Dubins%20car/Video/PRM_video_gif.gif)
 
