@@ -1,8 +1,8 @@
-Project 03: Discrete Planning
+# Assignment 3 : Discrete Planning
+## Submitted by : Ashit Mohanty (C13582787) and Mohammad Anas Imam Khan (C17566828)
 
-Code submitted by Ashit Mohanty (C13582787) and Mohammad Anas Imam Khan (C17566828)
-
-1. astar.py:Code for A* Algorithm. 
+### 1. astar.py
+Code for A* Algorithm. 
 RESULTS:
 
 cost = [1,1,1], Giving equal weightage to right, front and left actions respectively.
@@ -62,7 +62,8 @@ Expanded Nodes
 (2, 0, 1)
 
 
-2. dijkstra.py: Code using the Dijkstra's Algorithm. The difference here is that the heuristic array will be filled with zeroes the code was run. Due to this change, dijkstra expands more nodes than A* to reach the goal (2,0,1).
+### 2. dijkstra.py:
+Code using the Dijkstra's Algorithm. The difference here is that the heuristic array will be filled with zeroes the code was run. Due to this change, dijkstra expands more nodes than A* to reach the goal (2,0,1).
  
 RESULTS:
 
