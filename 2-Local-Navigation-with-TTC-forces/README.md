@@ -37,3 +37,5 @@ samp_vels_y: y-coordinate for sampled candidate velocity
 ### 3)Instruction
 The following command needs to be executed to run the program,
 `python agent.py`
+
+To change the number of agents, change the csv file in `simulator.py`
